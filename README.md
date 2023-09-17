@@ -1,6 +1,4 @@
 <h1 align="center">Visual Studio Code Extensions</h1>
-This is a list of Visual Studio Code extensions that you can use to enhance your coding experience. These extensions cover a wide range of functionalities, from code formatting to theme customization and more.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20VS%20Code-blue.svg" alt="Made with love in VS Code">
   <img src="https://img.shields.io/github/license/Rahul-Sahani04/Must_Need_VS_Code_Extensions" alt="License">
