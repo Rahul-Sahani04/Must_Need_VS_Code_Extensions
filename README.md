@@ -11,8 +11,28 @@
 ## Table of Contents
 - [Extensions List](#extensions-list)
 - [How to Use](#how-to-use)
+- - [Easy Way 😴](#easy-method)
+- - [Hard Way 😈](#hard-method)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Easy Method 
+1. Download the given file [vscode-extensions.list](https://github.com/Rahul-Sahani04/Must_Need_VS_Code_Extensions/blob/main/vscode-extensions.list) onto your system.
+2. Head to the downloaded directory.
+3. Use the following command:
+   - For Linux:
+   ```bash
+    cat vscode-extensions.list | xargs -L 1 code --install-extension
+   ```
+   - For Windows:
+  ```bash
+    Get-Content vscode-extensions.list | ForEach-Object { code --install-extension $_ }
+  ```
+4. And you are done. ;)
+
+## Hard Method
+1. Go through each and every extension or just the ones you want.
 
 ## Extensions List
 
