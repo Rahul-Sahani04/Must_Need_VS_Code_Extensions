@@ -10,9 +10,10 @@
 
 ## Table of Contents
 - [Extensions List](#extensions-list)
-- [How to Use](#how-to-use)
+- Methods:
 - - [Easy Way 😴](#easy-method)
 - - [Hard Way 😈](#hard-method)
+- [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
 
