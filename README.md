@@ -51,7 +51,7 @@
 33. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver) - Version 5.7.9
 34. [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - Version 2.0.1
 35. [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts) - Version 1.12.0
-36. [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Version 1.25.0
+36. [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Version 1.25.0 <----- Most Needed Extension.
 37. [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - Version 0.0.17
 38. [API Usage Examples](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples) - Version 0.2.8
 39. [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode) - Version 1.2.30
