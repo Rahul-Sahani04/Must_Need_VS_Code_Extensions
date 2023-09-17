@@ -16,7 +16,7 @@
 
 ## Extensions List
 
-1. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments-3.0.2) - Version 3.0.2
+1. [![Better Comments](https://img.shields.io/badge/Better%20Comments-3.0.2-orange)](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments-3.0.2) [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments-3.0.2) - Version 3.0.2
 2. [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap-1.3.4) - Version 1.3.4
 3. [Blackbox](https://marketplace.visualstudio.com/items?itemName=blackboxapp.blackbox-1.1.58) - Version 1.1.58
 4. [Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client-1.9.5) - Version 1.9.5
