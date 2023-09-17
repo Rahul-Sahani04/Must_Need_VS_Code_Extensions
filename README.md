@@ -3,7 +3,7 @@ This is a list of Visual Studio Code extensions that you can use to enhance your
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20VS%20Code-blue.svg" alt="Made with love in VS Code">
-  <img src="https://img.shields.io/github/license/yourusername/vscode-extensions" alt="License">
+  <img src="https://img.shields.io/github/license/Rahul-Sahani04/vscode-extensions" alt="License">
 </p>
 
 <p align="center">
