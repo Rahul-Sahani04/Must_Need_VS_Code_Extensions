@@ -16,7 +16,7 @@
 
 ## Extensions List
 
-1. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments-3.0.2) - Version 3.0.2
+1. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Version 3.0.2
 2. [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Version 1.3.4
 3. [BlackBox](https://marketplace.visualstudio.com/items?itemName=blackboxapp.blackbox) - Version 1.1.58
 4. [Tailwind CSS](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Version 0.10.0
