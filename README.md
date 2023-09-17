@@ -26,9 +26,9 @@
     cat vscode-extensions.list | xargs -L 1 code --install-extension
    ```
    - For Windows:
-  ```bash
+   ```bash
     Get-Content vscode-extensions.list | ForEach-Object { code --install-extension $_ }
-  ```
+   ```
 4. And you are done. ;)
 
 ## Hard Method
