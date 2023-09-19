@@ -20,17 +20,22 @@
 
 ## Easy Method 
 1. Download the given file [vscode-extensions.list](https://github.com/Rahul-Sahani04/Must_Need_VS_Code_Extensions/blob/main/vscode-extensions.list) onto your system.
-2. Head to the downloaded directory.
-3. Use the following command:
-   - For Linux:
+- For Linux:
+  2. Head to the downloaded directory.
+  3. Use the following command:
    ```bash
     cat vscode-extensions.list | xargs -L 1 code --install-extension
    ```
-   - For Windows:
+
+- For Windows:
+  2. Open Windows PowerShell.
+  3. Head to the downloaded directory (using Windows PowerShell).
+  4. Use the following command:
    ```bash
     Get-Content vscode-extensions.list | ForEach-Object { code --install-extension $_ }
    ```
-4. And you are done. ;)
+   
+- And you are done. ;)
 
 ## Hard Method
 1. Go through each and every extension or just the ones you want.
