@@ -20,14 +20,14 @@
 
 ## Easy Method 
 1. Download the given file [vscode-extensions.list](https://github.com/Rahul-Sahani04/Must_Need_VS_Code_Extensions/blob/main/vscode-extensions.list) onto your system.
-- For Linux:
+- For Linux:<br>
   2. Head to the downloaded directory.
   3. Use the following command:
    ```bash
     cat vscode-extensions.list | xargs -L 1 code --install-extension
    ```
 
-- For Windows:
+- For Windows:<br>
   2. Open Windows PowerShell.
   3. Head to the downloaded directory (using Windows PowerShell).
   4. Use the following command:
