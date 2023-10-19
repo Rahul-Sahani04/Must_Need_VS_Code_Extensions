@@ -82,6 +82,8 @@
 38. [API Usage Examples](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples) - Version 0.2.8
 39. [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode) - Version 1.2.30
 40. [Console Ninja](https://marketplace.visualstudio.com/items?itemName=wallabyjs.console-ninja) - Version 0.0.224
+41. [Random Everything](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything) - Version 0.3.6
+42. [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes) - Version 0.0.3
 
 ## How to Use
 
